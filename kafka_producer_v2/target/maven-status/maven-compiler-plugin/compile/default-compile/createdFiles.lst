@@ -1,0 +1,12 @@
+com/kafka/dto/InvestorData.class
+com/kafka/producer/kafkaProducerPortoRecaudoService$1.class
+com/kafka/producer/KafkaProducerOnboardingService$1.class
+com/kafka/controller/KafkaProducerRestController.class
+com/kafka/dto/RecaudoResponse.class
+com/kafka/dto/Message.class
+com/kafka/dto/PortoResponse.class
+com/kafka/KafkaApp.class
+com/kafka/producer/kafkaProducerPortoRecaudoService.class
+com/kafka/producer/KafkaProducerOnboardingService.class
+com/kafka/configuration/KafkaTopicConf.class
+com/kafka/dto/Investor.class

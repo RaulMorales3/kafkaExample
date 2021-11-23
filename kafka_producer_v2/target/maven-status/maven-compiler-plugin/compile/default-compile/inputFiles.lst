@@ -1,0 +1,10 @@
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/controller/KafkaProducerRestController.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/producer/KafkaProducerOnboardingService.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/dto/Message.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/dto/Investor.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/dto/InvestorData.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/producer/kafkaProducerPortoRecaudoService.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/dto/PortoResponse.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/KafkaApp.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/dto/RecaudoResponse.java
+/home/raul/Documents/bvc_internship/Kafka/kafka_producer_v2/src/main/java/com/kafka/configuration/KafkaTopicConf.java
